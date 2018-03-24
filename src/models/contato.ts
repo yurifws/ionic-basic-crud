@@ -1,4 +1,4 @@
 export interface Contato{
-    nome:string,
+    nome: string,
     telefone: number
 }
